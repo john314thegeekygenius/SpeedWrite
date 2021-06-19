@@ -1,0 +1,2 @@
+# SpeedWrite
+Code go Fast
